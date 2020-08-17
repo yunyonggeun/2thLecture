@@ -1,0 +1,23 @@
+GenBank	RefSeq	Gene Region	Collection Date	Locality
+MN908947	NC_045512	complete	Dec-19	China
+LR757995		complete	05-Jan-20	China: Wuhan
+LR757996		complete	01-Jan-20	China: Wuhan
+MN938384		complete	10-Jan-20	China: Shenzhen
+MN988668		complete	02-Jan-20	China
+MN988669		complete	02-Jan-20	China
+MN996529		complete	30-Dec-19	China: Wuhan
+MN996530		complete	30-Dec-19	China: Wuhan
+MT039873		complete	20-Jan-20	China: Hangzhou
+MT039890		complete	Jan-20	South Korea
+MT044257		complete	28-Jan-20	USA: IL
+MT044258		complete	27-Jan-20	USA: CA
+MT066176		complete	05-Feb-20	Taiwan
+MT072688		complete	13-Jan-20	Nepal
+MT093571		complete	07-Feb-20	Sweden
+MT008023		M	Jan-20	Italy: Rome
+MT081059		N	22-Jan-20	China: HuaShang
+MT081060		N	23-Jan-20	China: HuaShang
+MN938386		RdRP	Jan-20	China: Shenzhen
+MN970003		RdRP	08-Jan-20	Thailand
+MT050414		RdRP	Jan-20	Australia: QLD
+MT066158		RdRp	24-Jan-20	Malaysia
